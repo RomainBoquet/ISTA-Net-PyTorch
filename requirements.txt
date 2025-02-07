@@ -1,0 +1,6 @@
+torch
+scipy
+numpy
+opencv-python
+argparse
+scikit-image
